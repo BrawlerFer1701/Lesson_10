@@ -1,0 +1,21 @@
+table{
+	width: 500px;
+	background: #B3ACAC;
+	border-collapse: collapse;
+}
+th, td{
+	border: solid 1px blue;
+	padding-top: 5px;
+	padding-left: 10px;
+	padding-right: 15px;
+}
+#dong1{
+	background: #FFA7A7;
+}
+#dong2{
+	background: #988EF9;
+	text-align: right;
+}
+#dong3{
+	background-color: #77F886;
+}
